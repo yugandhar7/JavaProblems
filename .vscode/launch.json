@@ -1,0 +1,457 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        
+
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "AMop",
+            "request": "launch",
+            "mainClass": "AMop",
+            "projectName": "Java@NV_d56a4825"
+        },
+        {
+            "type": "java",
+            "name": "AlCoSy30",
+            "request": "launch",
+            "mainClass": "AlCoSy30",
+            "projectName": "Java@NV_d56a4825"
+        },
+        {
+            "type": "java",
+            "name": "Alphabets",
+            "request": "launch",
+            "mainClass": "Alphabets",
+            "projectName": "Java@NV_d56a4825"
+        },
+        {
+            "type": "java",
+            "name": "Amstrong",
+            "request": "launch",
+            "mainClass": "Amstrong",
+            "projectName": "Java@NV_d56a4825"
+        },
+        {
+            "type": "java",
+            "name": "Angles",
+            "request": "launch",
+            "mainClass": "Angles",
+            "projectName": "Java@NV_d56a4825"
+        },
+        {
+            "type": "java",
+            "name": "Area",
+            "request": "launch",
+            "mainClass": "Area",
+            "projectName": "Java@NV_d56a4825"
+        },
+        {
+            "type": "java",
+            "name": "AreaofET",
+            "request": "launch",
+            "mainClass": "AreaofET",
+            "projectName": "Java@NV_d56a4825"
+        },
+        {
+            "type": "java",
+            "name": "AreaofT",
+            "request": "launch",
+            "mainClass": "AreaofT",
+            "projectName": "Java@NV_d56a4825"
+        },
+        {
+            "type": "java",
+            "name": "Calculator",
+            "request": "launch",
+            "mainClass": "Calculator",
+            "projectName": "Java@NV_d56a4825"
+        },
+        {
+            "type": "java",
+            "name": "Circle",
+            "request": "launch",
+            "mainClass": "Circle",
+            "projectName": "Java@NV_d56a4825"
+        },
+        {
+            "type": "java",
+            "name": "CmMtKm",
+            "request": "launch",
+            "mainClass": "CmMtKm",
+            "projectName": "Java@NV_d56a4825"
+        },
+        {
+            "type": "java",
+            "name": "CtoF",
+            "request": "launch",
+            "mainClass": "CtoF",
+            "projectName": "Java@NV_d56a4825"
+        },
+        {
+            "type": "java",
+            "name": "DayOfWeek",
+            "request": "launch",
+            "mainClass": "DayOfWeek",
+            "projectName": "Java@NV_d56a4825"
+        },
+        {
+            "type": "java",
+            "name": "DaysWeeksYears",
+            "request": "launch",
+            "mainClass": "DaysWeeksYears",
+            "projectName": "Java@NV_d56a4825"
+        },
+        {
+            "type": "java",
+            "name": "Div511",
+            "request": "launch",
+            "mainClass": "Div511",
+            "projectName": "Java@NV_d56a4825"
+        },
+        {
+            "type": "java",
+            "name": "EOdd",
+            "request": "launch",
+            "mainClass": "EOdd",
+            "projectName": "Java@NV_d56a4825"
+        },
+        {
+            "type": "java",
+            "name": "ElectricityBill",
+            "request": "launch",
+            "mainClass": "ElectricityBill",
+            "projectName": "Java@NV_d56a4825"
+        },
+        {
+            "type": "java",
+            "name": "EvenOrOddS",
+            "request": "launch",
+            "mainClass": "EvenOrOddS",
+            "projectName": "Java@NV_d56a4825"
+        },
+        {
+            "type": "java",
+            "name": "FtoC",
+            "request": "launch",
+            "mainClass": "FtoC",
+            "projectName": "Java@NV_d56a4825"
+        },
+        {
+            "type": "java",
+            "name": "Leap",
+            "request": "launch",
+            "mainClass": "Leap",
+            "projectName": "Java@NV_d56a4825"
+        },
+        {
+            "type": "java",
+            "name": "MaxOfTwo",
+            "request": "launch",
+            "mainClass": "MaxOfTwo",
+            "projectName": "Java@NV_d56a4825"
+        },
+        {
+            "type": "java",
+            "name": "MaxoFNums",
+            "request": "launch",
+            "mainClass": "MaxoFNums",
+            "projectName": "Java@NV_d56a4825"
+        },
+        {
+            "type": "java",
+            "name": "MultiplicationTable",
+            "request": "launch",
+            "mainClass": "MultiplicationTable",
+            "projectName": "Java@NV_d56a4825"
+        },
+        {
+            "type": "java",
+            "name": "P41",
+            "request": "launch",
+            "mainClass": "P41",
+            "projectName": "Java@NV_d56a4825"
+        },
+        {
+            "type": "java",
+            "name": "P42",
+            "request": "launch",
+            "mainClass": "P42",
+            "projectName": "Java@NV_d56a4825"
+        },
+        {
+            "type": "java",
+            "name": "P44",
+            "request": "launch",
+            "mainClass": "P44",
+            "projectName": "Java@NV_d56a4825"
+        },
+        {
+            "type": "java",
+            "name": "P45",
+            "request": "launch",
+            "mainClass": "P45",
+            "projectName": "Java@NV_d56a4825"
+        },
+        {
+            "type": "java",
+            "name": "P46",
+            "request": "launch",
+            "mainClass": "P46",
+            "projectName": "Java@NV_d56a4825"
+        },
+        {
+            "type": "java",
+            "name": "P47",
+            "request": "launch",
+            "mainClass": "P47",
+            "projectName": "Java@NV_d56a4825"
+        },
+        {
+            "type": "java",
+            "name": "P48",
+            "request": "launch",
+            "mainClass": "P48",
+            "projectName": "Java@NV_d56a4825"
+        },
+        {
+            "type": "java",
+            "name": "P49",
+            "request": "launch",
+            "mainClass": "P49",
+            "projectName": "Java@NV_d56a4825"
+        },
+        {
+            "type": "java",
+            "name": "P50",
+            "request": "launch",
+            "mainClass": "P50",
+            "projectName": "Java@NV_d56a4825"
+        },
+        {
+            "type": "java",
+            "name": "P51",
+            "request": "launch",
+            "mainClass": "P51",
+            "projectName": "Java@NV_d56a4825"
+        },
+        {
+            "type": "java",
+            "name": "P52",
+            "request": "launch",
+            "mainClass": "P52",
+            "projectName": "Java@NV_d56a4825"
+        },
+        {
+            "type": "java",
+            "name": "P53",
+            "request": "launch",
+            "mainClass": "P53",
+            "projectName": "Java@NV_d56a4825"
+        },
+        {
+            "type": "java",
+            "name": "P54",
+            "request": "launch",
+            "mainClass": "P54",
+            "projectName": "Java@NV_d56a4825"
+        },
+        {
+            "type": "java",
+            "name": "P55",
+            "request": "launch",
+            "mainClass": "P55",
+            "projectName": "Java@NV_d56a4825"
+        },
+        {
+            "type": "java",
+            "name": "P56",
+            "request": "launch",
+            "mainClass": "P56",
+            "projectName": "Java@NV_d56a4825"
+        },
+        {
+            "type": "java",
+            "name": "P57",
+            "request": "launch",
+            "mainClass": "P57",
+            "projectName": "Java@NV_d56a4825"
+        },
+        {
+            "type": "java",
+            "name": "P58",
+            "request": "launch",
+            "mainClass": "P58",
+            "projectName": "Java@NV_d56a4825"
+        },
+        {
+            "type": "java",
+            "name": "P59",
+            "request": "launch",
+            "mainClass": "P59",
+            "projectName": "Java@NV_d56a4825"
+        },
+        {
+            "type": "java",
+            "name": "P60",
+            "request": "launch",
+            "mainClass": "P60",
+            "projectName": "Java@NV_d56a4825"
+        },
+        {
+            "type": "java",
+            "name": "P61",
+            "request": "launch",
+            "mainClass": "P61",
+            "projectName": "Java@NV_d56a4825"
+        },
+        {
+            "type": "java",
+            "name": "P62",
+            "request": "launch",
+            "mainClass": "P62",
+            "projectName": "Java@NV_d56a4825"
+        },
+        {
+            "type": "java",
+            "name": "P63",
+            "request": "launch",
+            "mainClass": "P63",
+            "projectName": "Java@NV_d56a4825"
+        },
+        {
+            "type": "java",
+            "name": "P64",
+            "request": "launch",
+            "mainClass": "P64",
+            "projectName": "Java@NV_d56a4825"
+        },
+        {
+            "type": "java",
+            "name": "P65",
+            "request": "launch",
+            "mainClass": "P65",
+            "projectName": "Java@NV_d56a4825"
+        },
+        {
+            "type": "java",
+            "name": "P66",
+            "request": "launch",
+            "mainClass": "P66",
+            "projectName": "Java@NV_d56a4825"
+        },
+        {
+            "type": "java",
+            "name": "PTR",
+            "request": "launch",
+            "mainClass": "PTR",
+            "projectName": "Java@NV_d56a4825"
+        },
+        {
+            "type": "java",
+            "name": "Perimeter",
+            "request": "launch",
+            "mainClass": "Perimeter",
+            "projectName": "Java@NV_d56a4825"
+        },
+        {
+            "type": "java",
+            "name": "Pnz",
+            "request": "launch",
+            "mainClass": "Pnz",
+            "projectName": "Java@NV_d56a4825"
+        },
+        {
+            "type": "java",
+            "name": "PosNegZero",
+            "request": "launch",
+            "mainClass": "PosNegZero",
+            "projectName": "Java@NV_d56a4825"
+        },
+        {
+            "type": "java",
+            "name": "Power",
+            "request": "launch",
+            "mainClass": "Power",
+            "projectName": "Java@NV_d56a4825"
+        },
+        {
+            "type": "java",
+            "name": "Quardiatic",
+            "request": "launch",
+            "mainClass": "Quardiatic",
+            "projectName": "Java@NV_d56a4825"
+        },
+        {
+            "type": "java",
+            "name": "Quardinates",
+            "request": "launch",
+            "mainClass": "Quardinates",
+            "projectName": "Java@NV_d56a4825"
+        },
+        {
+            "type": "java",
+            "name": "Sqrt",
+            "request": "launch",
+            "mainClass": "Sqrt",
+            "projectName": "Java@NV_d56a4825"
+        },
+        {
+            "type": "java",
+            "name": "Sum",
+            "request": "launch",
+            "mainClass": "Sum",
+            "projectName": "Java@NV_d56a4825"
+        },
+        {
+            "type": "java",
+            "name": "Swap",
+            "request": "launch",
+            "mainClass": "Swap",
+            "projectName": "Java@NV_d56a4825"
+        },
+        {
+            "type": "java",
+            "name": "SwitchOlCon",
+            "request": "launch",
+            "mainClass": "SwitchOlCon",
+            "projectName": "Java@NV_d56a4825"
+        },
+        {
+            "type": "java",
+            "name": "TolAvgCent",
+            "request": "launch",
+            "mainClass": "TolAvgCent",
+            "projectName": "Java@NV_d56a4825"
+        },
+        {
+            "type": "java",
+            "name": "VoConsonent",
+            "request": "launch",
+            "mainClass": "VoConsonent",
+            "projectName": "Java@NV_d56a4825"
+        },
+        {
+            "type": "java",
+            "name": "WeatherP39",
+            "request": "launch",
+            "mainClass": "WeatherP39",
+            "projectName": "Java@NV_d56a4825"
+        },
+        {
+            "type": "java",
+            "name": "ip",
+            "request": "launch",
+            "mainClass": "ip",
+            "projectName": "Java@NV_d56a4825"
+        }
+    ]
+}
